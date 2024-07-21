@@ -1,0 +1,120 @@
+.hloo{
+  width: 100px%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.musab{
+    width: 100px%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .Country {
+    width: 125px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  * {
+    font-family: 'Courier New', Courier, monospace;
+    ;
+    
+  }
+  .cala {
+    background-color: rgb(47, 97, 80);
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .cala:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .Create  {
+    color: aliceblue;
+  }
+  .fname {
+      font-size: x-large;
+  }
+  .iname {
+    width: 100px%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+   #gen { 
+    width: 125px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   }
+   #DoB {
+    width: 125px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   }
+   .button {
+    background-color: rgb(47, 97, 80);
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+   }
+   .button:hover {background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;}
+    .center {
+      width: 125px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+     }
+    .mblogo{
+      text-align: left;
+    }
+    #logo {
+      float: left;
+      padding: 5px;
+    }
+    #field {
+       color: aliceblue ;
+       width: 400px ;
+    }
+    #text {
+      color:black ;
+    }
+    
